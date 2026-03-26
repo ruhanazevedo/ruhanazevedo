@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=+%2F+whoami;Ruhan+Azevedo;Problem+Solver+%2F+Security+Enthusiast;I+break+things+to+understand+them;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=+%2F+whoami;Ruhan+Azevedo;Problem+Solver+%2F+Security+Enthusiast;breaking+things+to+understand+them;Always+learning.+Always+building." alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 ~/ruhanazevedo  $ cat about.txt
 
   passionate about cybersecurity, hard problems, and modern solutions
-  i build things, break things, and figure out why they broke
+  breaking things to understand them
   never settling — always studying something new
 ```
 
