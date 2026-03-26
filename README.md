@@ -9,7 +9,7 @@
 
   passionate about cybersecurity, hard problems, and modern solutions
   breaking things to understand them
-  never settling — always studying something new
+  never settling, always studying something new
 ```
 
 ```zsh
